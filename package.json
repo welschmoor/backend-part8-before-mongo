@@ -1,0 +1,20 @@
+{
+  "name": "graphql8a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "apollo": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.6.1",
+    "apollo-server-core": "^3.6.1",
+    "graphql": "^16.2.0",
+    "mongoose": "^5.13.14",
+    "mongoose-unique-validator": "^2.0.3",
+    "uuid": "^8.3.2"
+  }
+}
